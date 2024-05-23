@@ -3,11 +3,13 @@
 
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-- 🔭 I’m currently working on **Web Automation**
-- 🌱 I’m currently learning **Cypress, Java**
-- 👯 I’m looking to collaborate on **API/Web Automation Testing**
-- 🤝 I’m looking for help with **Placements in FAANG**
-- 💬 Ask me about **Tech**
+<br />
+
+- 🔭 Currently working on **Web Automation**
+- 🌱 Learning **Cypress and Java**
+- 👯 Seeking collaboration on **API/Web Automation Testing**
+- 🤝 Looking for guidance on **career development in top tech companies**
+- 💬 Open to discussions about **Technology**
 - 📫 How to reach me :
 <br />[<img height="50" width="95" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajaychandru20/)
 [<img height="50" width="90" src="https://ksltechnology.com/wp-content/uploads/2022/01/gmail-image.jpg" />](mailto:ajaychandru20@gmail.com)
@@ -21,7 +23,6 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
 <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
@@ -39,6 +40,7 @@
 <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
+<br />
 
 ## 📈 GitHub Stats
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaychandru20&show_icons=true&theme=radical)
