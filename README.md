@@ -12,9 +12,7 @@
 <br />[<img height="50" width="95" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajaychandru20/)
 [<img height="50" width="90" src="https://ksltechnology.com/wp-content/uploads/2022/01/gmail-image.jpg" />](mailto:ajaychandru20@gmail.com)
 
-
-
-- 📄 Know about my experiences [Resume](https://firebasestorage.googleapis.com/v0/b/ajaychandru20-portfolio.appspot.com/o/ajayc-resume.pdf?alt=media&token=cfa988a7-4be5-4a66-a861-5b97b213181b)
+- 📄 Know about my experiences [Resume](https://firebasestorage.googleapis.com/v0/b/ajaychandru20-portfolio.appspot.com/o/ajayc-resume.pdf?alt=media&token=0464c33c-5109-47f2-b3ee-d895bf3693f1)
 - ⚡ Fun fact: I didn't want to attend classes in college and instead spent my time playing #PUBG, but now I'm thriving in the IT industry!
 
 ### I code in
