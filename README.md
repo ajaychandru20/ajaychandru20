@@ -1,6 +1,10 @@
 <h1 align="center">Hi there 👋 , I'm Ajay</h1>
-<h3 align="center">Senior Software Tester with 2.5+ year exp</h3>
+<h3 align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<a href="https://github.com/ajaychandru20"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=030A0E&random=false&width=630&lines=Senior+Software+Tester+with+2.5%2B+years+of+experience.;Skilled+in+automation+and+manual+testing.;Possesses+1.5%2B+years+of+coding+experience." alt="Typing SVG" /></a>
+</h3>
 
+<br />
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 <br />
