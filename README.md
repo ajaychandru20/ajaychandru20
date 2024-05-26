@@ -18,28 +18,28 @@
 - ⚡ Fun fact: I didn't want to attend classes in college and instead spent my time playing #PUBG, but now I'm thriving in the IT industry!
 
 ### 👨‍💻 I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
-<img height="50" width="50" src="https://logowik.com/content/uploads/images/axios3626.jpg"/>
-<img height="50" width="50" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/javascript.png"/> <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/java.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/python.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/html.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/css.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/bootstrap.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/mysql.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/psql.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/nodejs.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/graphql.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/axios.jpg"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/express.png"/>
 
 ### 🧰 IDE and 🔧 Tools I Use 
-<img height="50" width="50" src="https://www.cypress.io/_astro/navbar-brand.D87396b0.svg"/> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"/>
-<img height="50" width="50" src="https://avatars.githubusercontent.com/u/12528662?s=280&v=4"/>
-<img height="50" width="50" src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-<img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
-<img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/cypress.png"/> <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/selenium.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/testng.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/cucumber.png" />
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/docker.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/vscode.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/git.png"/>
+<img height="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/eclips.png"/>
+<img height="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/notion.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/figma.png"/>
 
 <br />
 
