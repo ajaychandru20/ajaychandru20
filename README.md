@@ -38,6 +38,7 @@
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/cypress.png"/> <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/selenium.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/testng.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/cucumber.png" />
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/Mocha.png" />
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/docker.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/postman.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/jenkins.png"/>
