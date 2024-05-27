@@ -41,6 +41,7 @@
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/docker.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/postman.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/jenkins.png"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/Taiga.jpg"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/jira.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/bitbucket.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/vscode.png"/>
