@@ -31,7 +31,7 @@
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/psql.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/nodejs.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/graphql.png"/>
-<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/axios.jpg"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/axios.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Codes/express.png"/>
 
 ### 🧰 IDE and 🔧 Tools I Use 
@@ -42,7 +42,7 @@
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/docker.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/postman.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/jenkins.png"/>
-<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/Taiga.jpg"/>
+<img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/Taiga.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/jira.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/bitbucket.png"/>
 <img height="50" width="50" src="https://github.com/ajaychandru20/git-icons/blob/main/Tools/vscode.png"/>
