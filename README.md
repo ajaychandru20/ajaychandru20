@@ -9,6 +9,7 @@
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://github.com/ajaychandru20/git-icons/blob/main/Gifs/codingGif.gif" />
 <br />
 
+- 💼 Here is my **[Portfolio](https://ajaychandru20.netlify.app/)**
 - 🔭 Currently working on **Web Automation**
 - 🌱 Learning **Cypress and Java**
 - 👯 Seeking collaboration on **API/Web Automation Testing**
