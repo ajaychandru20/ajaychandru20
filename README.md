@@ -19,7 +19,7 @@
 <br /> [<img height="40" width="40" src="https://github.com/ajaychandru20/git-icons/blob/main/linkedin.png" />](https://www.linkedin.com/in/ajaychandru20/)
 [<img height="40" width="40" src="https://github.com/ajaychandru20/git-icons/blob/main/gmail.png"/>](mailto:ajaychandru20@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://firebasestorage.googleapis.com/v0/b/ajaychandru20-portfolio.appspot.com/o/ajayc-resume.pdf?alt=media&token=a8f00e5b-12e6-4006-9e77-2ddf32bd2a40)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10ANBmIEYKMLlCOYFWpJ7DMrclNQGbblr/view?usp=sharing)
 - ⚡ Fun fact: I didn't want to attend classes in college and instead spent my time playing #PUBG, but now I'm thriving in the IT industry!
 
 ### 👨‍💻 I code in
