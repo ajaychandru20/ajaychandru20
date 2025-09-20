@@ -11,10 +11,10 @@
 
 - 💼 Here is my **[Portfolio](https://ajaychandru20.netlify.app/)**
 - 🔭 Currently working on **Web Automation**
-- 🌱 Learning **Cypress and Java**
-- 👯 Seeking collaboration on **API/Web Automation Testing**
-- 🤝 Looking for guidance on **career development in top tech companies**
-- 💬 Open to discussions about **Technology**
+- 🌱 Learning **Cypress and Advanced Java**
+- 👯 Open to collaboration on **API and Web Automation Testing**
+- 🤝 Seeking guidance on **career growth in top tech companies**
+- 💬 Open for discussions about **Technology and Testing Trends**
 - 📫 How to reach me :
 <br /> [<img height="40" width="40" src="https://github.com/ajaychandru20/git-icons/blob/main/linkedin.png" />](https://www.linkedin.com/in/ajaychandru20/)
 [<img height="40" width="40" src="https://github.com/ajaychandru20/git-icons/blob/main/gmail.png"/>](mailto:ajaychandru20@gmail.com)
